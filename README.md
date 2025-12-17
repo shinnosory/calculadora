@@ -1,2 +1,14 @@
-# calculadora
+# 🧮 Calculadora Cute
+
 Calculadora simples com layout desenvolvida em HTML, CSS e JavaScript.
+
+## Funcionalidades:
+- Operações básicas
+- Botão limpar
+- Layout cute
+- Navbar simples
+
+## Tecnologias:
+- HTML
+- CSS
+- JavaScript

@@ -1,4 +1,4 @@
-# 🧮 Calculadora Cute
+# 🧮 Calculadora
 
 Calculadora simples com layout desenvolvida em HTML, CSS e JavaScript.
 
